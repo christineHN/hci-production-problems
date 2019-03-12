@@ -43,10 +43,11 @@ Once you have cloned the forked copy, you should add the *group* repository as a
 `git remote add group` followed by the URL for your group’s repository.
 
 Write or copy & paste the output of `git remote -v` from your copy of the forked repository here:
-origin	https://github.com/christineHN/project2-3 (fetch)
-origin	https://github.com/christineHN/project2-3 (push)
-remote	https://github.com/iititmd362/project2-3 (fetch)
-remote	https://github.com/iititmd362/project2-3 (push)
+group	https://github.com/iititmd362/project2-3 (fetch)
+group	https://github.com/iititmd362/project2-3 (push)
+origin	https://github.com/christineHN/project2-3.git (fetch)
+origin	https://github.com/christineHN/project2-3.git (push)
+
 
 8. Next, each group member should add to the `README.md` file his/her name, and a brief few
 sentences of what the member believes are his/her primary strengths. Prior to doing that, be sure to
@@ -57,4 +58,4 @@ strengths. Add and commit your own work, and push to your own repository (`git p
 repository. Each group member should review the request before it is merged, and then pull from the
 group repository to have a complete, up-to-date `README.md` file.
 
-Write the URL of your pull request here:
+Write the URL of your pull request here: https://github.com/iititmd362/project2-3/pull/2
