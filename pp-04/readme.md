@@ -25,11 +25,12 @@ Small commits to your Production Problems repository that include:
 2. an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guideline One (URL):
+* HCI Guideline One (URL):https://developer.apple.com/design/human-interface-guidelines/ios/user-interaction/data-entry/
 * Describe how you implemented that guideline in your sketch:
+I changed the entry for membership price by giving them present choices instead of making them to enter each numbers. It gives user a limited choices and it will only collect required and reasonable values.
 
-* HCI Guideline Two (URL):
-* Describe how you implemented that guideline in your sketch:
+* HCI Guideline Two (URL):https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/
+* Describe how you implemented that guideline in your sketch: I changed the background to plain white background rather than the one with lines. Those lines could confuse users and the site would look unprofessional. It might be more legible with plain white background with black font color.
 
-* HCI Guideline Three (URL):
-* Describe how you implemented that guideline in your sketch:
+* HCI Guideline Three (URL): https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/color/
+* Describe how you implemented that guideline in your sketch: I would like to change the menu button color to blue. I also changed the dropdown membership list too. And the arrow would be blue too.
