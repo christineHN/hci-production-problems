@@ -16,13 +16,13 @@ your group for Project 3 to help yourselves create your own master usability che
 
 * Your own condensed ten-item, must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. Adequate Text-to-Background Contrast : lists of menu should be visible
+2. Avoid single-item categories and single-item bulleted lists : menu under each categories are more than one
+3. Don't use generic instructions, such as "Click Here" as a link name : describe what the buttons are really for
+4. Begin the window title with the information-carrying word : company name should be at the top for the whole time
+5. Images Have Appropriate ALT Tags : logo should have ALT tags
+6. Site Has Custom Not-found/404 Page : I think we should have this just in case the site goes down
+7. Clear Path to Contact Information : make contact information more visible
+8. Main Navigation Is Easily Identifiable : nav bar are always on the top
+9. Styles & Colors Are Consistent : maybe the buttons should have consistent colors
+10. HTML Page Titles Are Explanatory : company name
